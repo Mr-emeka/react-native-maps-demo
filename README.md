@@ -9,12 +9,9 @@ Google Maps Directions API is official gone - unless you are a legacy user.
 I also took out time to explain how to do the setup on Medium [Google Maps Route API vs. Directions API: What You Need to Know in 2025]()
 
 
-
-
 ## Are you HIRING ?
 
 If you are hiring, you should check out my portfolio [ukpai.site](https://www.ukpai.site)
-
 
 
 ## Get started
