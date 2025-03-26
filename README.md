@@ -1,12 +1,14 @@
 # React Native/Expo Routes API Integration
 
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+
 ## Google Maps Route API vs. Directions API: What You Need to Know in 2025
 
 Google Maps Directions API is official gone - unless you are a legacy user. [see official announcement](https://developers.google.com/maps/legacy).
 
 I also took out time to explain how to do the setup on Medium [Google Maps Route API vs. Directions API: What You Need to Know in 2025]()
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+
 
 
 ## Are you HIRING ?
