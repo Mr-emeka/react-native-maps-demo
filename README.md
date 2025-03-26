@@ -6,7 +6,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 Google Maps Directions API is official gone - unless you are a legacy user. [see official announcement](https://developers.google.com/maps/legacy).
 
-I also took out time to explain how to do the setup on Medium [Google Maps Route API vs. Directions API: What You Need to Know in 2025]()
+I also took out time to explain how to setup google maps in an expo project [Google Maps Route API vs. Directions API: What You Need to Know in 2025]()
 
 
 ## Are you HIRING ?
